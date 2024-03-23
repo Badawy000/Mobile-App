@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6de5e629-2965-4127-ac43-72e22609b5be" name="Changes" comment="" />
+    <list default="true" id="6de5e629-2965-4127-ac43-72e22609b5be" name="Changes" comment="Commit project x">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/Buy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/Buy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-html-report" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -167,11 +176,28 @@
       <option name="project" value="LOCAL" />
       <updated>1711218328689</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit project 3">
+      <created>1711219190672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711219190672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit project x">
+      <created>1711219327456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711219327456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit project" />
+    <MESSAGE value="Commit project 3" />
+    <MESSAGE value="Commit project 4" />
+    <MESSAGE value="Commit project x" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit project x" />
   </component>
 </project>

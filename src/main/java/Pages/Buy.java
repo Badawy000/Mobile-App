@@ -130,8 +130,6 @@ public class Buy extends pageBase {
 
     public void Overview (WebDriver driver) throws InterruptedException {
         Thread.sleep(1000);
-        ScrollToPageEnd(driver);
-        Thread.sleep(1000);
         // check the Overview page
         String actualTitle = Overviewpage.getText();
         String expectedTitle = "Checkout: Overview";
@@ -157,9 +155,10 @@ public class Buy extends pageBase {
 
     }
     public void Done (WebDriver driver) throws InterruptedException {
+        ScrollToPageEnd(driver);
         Thread.sleep(1000);
         clickButton(finishButton);
-        ScrollToPageEnd(driver);
+        Thread.sleep(1000);
         String actualTitle = Thankyou.getText();
         String expectedTitle = "Thank you for your order!";
         assertEquals(expectedTitle,actualTitle);
